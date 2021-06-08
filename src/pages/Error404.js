@@ -7,3 +7,5 @@ const Error404 = () => {
 
     return view;
 };
+
+export default Error404;
