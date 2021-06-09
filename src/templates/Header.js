@@ -2,12 +2,11 @@ const Header = () => {
 	const view = `
 		<div class="header-main">
 			<div class="header-logo">
-
-				<h1>
-					<a href="/">
-						Single page application
-					</a>
-				</h1>
+				<a href="/">
+					<h1>
+						🚀 Single page application
+					</h1>
+				</a>
 			</div>
 
 			<div class="header-nav">
